@@ -1,0 +1,7 @@
+This notebook was created in Kaggle and ran in Kaggle as the dataset is only fully accessible on Kaggle. arXiv Dataset is live updated every week on Kaggle. Kaggle link can be given upon request. The notebook first filters AI or ML papers, then Ai Music, then LSTM or others and also another one for transformer models. Results latest are:
+Papers_2022_2023          :  (282, 6)
+Papers_Before_2021              :  (275, 6)
+Transformers_2022_2023    :  (124, 6)
+Transformers_Before_2021       :  (147, 6)
+LSTM etc_2022_2023        :  (28, 6)
+LSTM etc_Before_2021           :  (71, 6)
